@@ -1,4 +1,4 @@
-* README *
+** README **
 
 Fibonacci series
 
@@ -17,4 +17,5 @@ Hence, the iterative method is what we would use in production. The reason to us
 
 
  *** PART - III ***
+ 
 memoized recursion is a way to optimize the time complexity.
